@@ -4,13 +4,13 @@
 #Version: 4.0
 #Summary: This program collects employee names and salaries, calculates the average salary, and displays employees whose salaries are within $5000 of the average.
 #Variables:
-# names (list)
-# salaries (list)
-# total (float)
-# name (string)
-# salary (float)
-# avg (float)
-# diff (float)
+# names (list) - Show employee names
+# salaries (list) - Show employee salaries
+# total (float) - Sum of all salaries
+# name (string) - employee name
+# salary (float) - employee salary
+# avg (float) - average salary
+# diff (float) - difference between employee salary and average salary
 
 
 names = []
