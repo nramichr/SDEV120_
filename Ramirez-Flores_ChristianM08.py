@@ -1,3 +1,18 @@
+# Program Name: Ramirez-Flores_Christian_M08
+#Author: Christian Ramirez-Flores
+#Date: December 14, 2025
+#Version: 4.0
+#Summary: This program collects employee names and salaries, calculates the average salary, and displays employees whose salaries are within $5000 of the average.
+#Variables:
+# names (list)
+# salaries (list)
+# total (float)
+# name (string)
+# salary (float)
+# avg (float)
+# diff (float)
+
+
 names = []
 salaries = []
 total = 0
